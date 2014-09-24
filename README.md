@@ -1,6 +1,6 @@
 # devstep-squid3-ssl
 
-A plugin for automatically configuring [Devstep containers](http://fgrehm.viewdocs.io/devstep) created by its [CLI]](https://github.com/fgrehm/devstep-cli) to use a Squid3 caching proxy with SSL enabled in order to reduce the time taken during the dependencies installation process.
+A plugin for automatically configuring [Devstep containers](http://fgrehm.viewdocs.io/devstep) created by its [CLI](https://github.com/fgrehm/devstep-cli) to use a Squid3 caching proxy with SSL enabled in order to reduce the time taken during the dependencies installation process.
 
 ## Installation
 
